@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Current Weather Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="select">Select City</string>
+    <string name="get">Get the Report</string>
+    <string name="city_hint">Enter the City Name</string>
+</resources>
